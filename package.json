@@ -1,0 +1,17 @@
+{
+  "name": "language-guesser-app",
+  "version": "1.0.0",
+  "description": "An app that inputs a random language and outputs the name of the language",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Elvis Osuji",
+  "license": "ISC",
+  "dependencies": {
+    "colors": "^1.4.0",
+    "franc": "^6.0.0",
+    "langs": "^2.0.0"
+  },
+  "type": "module"
+}
